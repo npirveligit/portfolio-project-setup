@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-project-setup",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "transcript": "node scripts/fetch-dan-martell-transcript.js"
+  },
+  "dependencies": {
+    "youtube-transcript": "^1.2.1"
+  }
+}
